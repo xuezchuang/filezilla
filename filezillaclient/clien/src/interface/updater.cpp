@@ -10,7 +10,7 @@
 #include <wx/base64.h>
 #include <wx/tokenzr.h>
 #include <string>
-
+#include <intrin.h>
 #include <string>
 
 // This is ugly but does the job
